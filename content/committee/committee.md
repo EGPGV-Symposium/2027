@@ -11,8 +11,8 @@ organizers:
     - title: SYMPOSIUM CHAIR
       weight: 1
       item:
-        - title: Silvio Rizzi
-          affiliation: Argonne National Laboratory, USA
+        - title: Charles Gueunet
+          affiliation: Zibra AI, Ukraine
           weight: 1
     - title: PROGRAM CO-CHAIR
       weight: 2
@@ -20,15 +20,9 @@ organizers:
         - title: Soumya Dutta 
           affiliation: Indian Institute of Technology Kanpur, India
           weight: 1
-        - title: Charles Gueunet
-          affiliation: ICON Technology & Process Consulting, France
+        - title: Stefan Zellmann
+          affiliation: University of Cologne, Germany
           weight: 2
-    - title: STUDENT PROGRAM CHAIR
-      weight: 3
-      item:
-        - title: Muzafar Ahmad Wani
-          affiliation: IIT Kanpur, India
-          weight: 1
     - title: INTERNATIONAL PROGRAM COMMITTEE
       weight: 4
       item:

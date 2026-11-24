@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | EGPGV 2027</title>
-    <link>https://egpgv-symposium.github.io/2027/tags/</link>
-      <atom:link href="https://egpgv-symposium.github.io/2027/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/2027/tags/</link>
+      <atom:link href="http://localhost:1313/2027/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://egpgv-symposium.github.io/2027/media/icon_hu_314fd1b8fe5dfce2.png</url>
+      <url>http://localhost:1313/2027/media/icon_hu_314fd1b8fe5dfce2.png</url>
       <title>Tags</title>
-      <link>https://egpgv-symposium.github.io/2027/tags/</link>
+      <link>http://localhost:1313/2027/tags/</link>
     </image>
     
   </channel>
