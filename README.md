@@ -1,4 +1,4 @@
-# 2026
+# 2027
 
 To execute the site locally for updating go the root directory of the repo and type: hugo serve
 

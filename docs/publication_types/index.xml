@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | EGPGV 2026</title>
-    <link>https://egpgv-symposium.github.io/2026/publication_types/</link>
-      <atom:link href="https://egpgv-symposium.github.io/2026/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | EGPGV 2027</title>
+    <link>http://localhost:1313/2027/publication_types/</link>
+      <atom:link href="http://localhost:1313/2027/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://egpgv-symposium.github.io/2026/media/icon_hu83a44d5ef02ec6dfffb9f80b82b28c54_26872_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/2027/media/icon_hu_314fd1b8fe5dfce2.png</url>
       <title>Publication_types</title>
-      <link>https://egpgv-symposium.github.io/2026/publication_types/</link>
+      <link>http://localhost:1313/2027/publication_types/</link>
     </image>
     
   </channel>

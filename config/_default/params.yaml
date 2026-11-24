@@ -18,7 +18,7 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: 'EGPGV'
-    description: "EGPGV'26 -- held in conjunction with EuroVis 2026"
+    description: "EGPGV'27 -- held in conjunction with EuroVis 2027"
     twitter: ''
   analytics:
 #    google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '&copy; 2026 [The EGPGV Team](/committee/) - For questions, please contact papers@egpgv.org'
+    notice: '&copy; 2027 [The EGPGV Team](/committee/) - For questions, please contact papers@egpgv.org'
 #     notice: '© {year} Me. This work is licensed under {license}'
 #     license:
 #       enable: true

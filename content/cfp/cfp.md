@@ -7,7 +7,7 @@ title: Call for Papers
 
 The Eurographics Symposium on Parallel Graphics and Visualization (EGPGV) aims to foster the exchange of experiences and knowledge on leveraging and defining new trends in parallel graphics and visualization. This area is important due to the widespread availability of multi-core CPUs, GPUs, and cluster systems. Computationally demanding and data-intensive applications in graphics and visualization are strongly affected by this trend and require novel, efficient parallel solutions.
 
-EGPGV 2026 will take place on June 8, 2026, and will be co-located with EuroVis 2026, held June 8 to June 12, 2026, in Nottingham, United Kingdom.
+EGPGV 2027 will take place on May 31, 2027, and will be co-located with EuroVis 2027, held May 31 to June 4, 2027, in Stuttgart, Germany.
 
 The proceedings of EGPGV will be published in the Eurographics Proceedings Series and the Eurographics Digital Library.
 
@@ -50,8 +50,8 @@ In general, appropriate topics for the symposium fall into one of four categorie
 
 ## Important Dates:
 
-Abstract Deadline: February 6, 2026 (extended)\
-Submission Deadline: February 13, 2026 (extended)
+Abstract Deadline: February 6, 2027\
+Submission Deadline: February 13, 2027
 
 If you would like more information, please don't hesitate to contact the Program Co-Chairs via papers@egpgv.org.
 

@@ -3,19 +3,18 @@ widget: experience
 headless: true
 weight: 30
 title: Program
-subtitle: 'TBD'
-subtitle: '2026-06-08 &middot; Nottingham, United Kingdom <br/>Times: Local Time'
+subtitle: '2027-05-31 &middot; Stuttgart, Germany <br/>Times: Local Time'
 design:
   spacing: { padding: ["4em", "0", "2em", "0"] }
 date_format: '15:04'
 experience:
   
   - title: Opening
-    date_start: '2026-06-08T09:00:00'
-    date_end: '2026-06-08T09:15:00'
+    date_start: '2027-05-31T09:00:00'
+    date_end: '2027-05-31T09:15:00'
   - title: 'Keynote<br/><span style="font-size:11.0pt">Dr. Hamish Carr, University of Leeds, UK</span>'
-    date_start: '2026-06-08T09:15:00'
-    date_end: '2026-06-08T10:15:00'
+    date_start: '2027-05-31T09:15:00'
+    date_end: '2027-05-31T10:15:00'
     description: |
       <table>
       <tr>
@@ -31,8 +30,8 @@ experience:
       </tr>
       </table>
   # - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: TBD</span>'
-  #   date_start: '2026-06-08T10:30:00'
-  #   date_end: '2026-06-08T11:00:00'
+  #   date_start: '2027-05-31T10:30:00'
+  #   date_end: '2027-05-31T11:00:00'
     # description: |
     
     #   <table>
@@ -50,12 +49,12 @@ experience:
     #   </table>
   
   - title: Coffee Break
-    date_start: '2026-06-08T10:30:00'
-    date_end: '2026-06-08T11:00:00'
+    date_start: '2027-05-31T10:30:00'
+    date_end: '2027-05-31T11:00:00'
   
   - title: 'Paper Session<br/><span style="font-size:11.0pt">Session Chair: Petr Strakoš</span>'
-    date_start: '2026-06-08T11:00:00'
-    date_end: '2026-06-08T12:15:00'
+    date_start: '2027-05-31T11:00:00'
+    date_end: '2027-05-31T12:15:00'
     description: |
       * 11:00-11:25: <span style="text-decoration:underline">Adrian Kreskowski</span>, Gareth Rendle, Bernd Froehlich<br/>
         _Real-Time Meshlet Extraction from Scalar Volumes_
@@ -65,6 +64,6 @@ experience:
         _Rasterization with Data-Parallel Primitives_
   
   - title: Closing
-    date_start: '2025-06-02T12:15:00'
-    date_end: '2025-06-02T12:30:00'
+    date_start: '2027-05-31T12:15:00'
+    date_end: '2027-05-31T12:30:00'
 ---

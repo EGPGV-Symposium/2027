@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://egpgv-symposium.github.io/2026/cfp/</loc>
+    <loc>http://localhost:1313/2027/cfp/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/committee/</loc>
+    <loc>http://localhost:1313/2027/committee/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/legal/</loc>
+    <loc>http://localhost:1313/2027/legal/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/program/</loc>
+    <loc>http://localhost:1313/2027/program/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/submission/</loc>
+    <loc>http://localhost:1313/2027/submission/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/categories/</loc>
+    <loc>http://localhost:1313/2027/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/</loc>
+    <loc>http://localhost:1313/2027/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/publication_types/</loc>
+    <loc>http://localhost:1313/2027/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://egpgv-symposium.github.io/2026/tags/</loc>
+    <loc>http://localhost:1313/2027/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

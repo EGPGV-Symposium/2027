@@ -2,7 +2,7 @@
 widget: egpgv_hero
 headless: true
 weight: 10
-title: WELCOME TO EGPGV 2026
+title: WELCOME TO EGPGV 2027
 hero_media:
 # cta:
 #   label: EuroVis Webpage
@@ -19,9 +19,9 @@ design:
 #   css_class: fullscreen
 ---
 
-Nottingham, Uniter Kingdom, 2026-06-08
+Stuttgart, Germany, 2027-05-31
 
-EGPGV 2026 is co-located with EuroVis 2026.
+EGPGV 2027 is co-located with EuroVis 2027.
 Please find information on the venue, accommodation, and registration on www.eurovis.org
 
 <!--Custom spacing-->
