@@ -11,14 +11,14 @@ item:
   - title: Submission Deadlines
     weigth: 2
     item:
-      - title: Abstract deadline
+      - title: Paper deadline
         url: 'https://new.precisionconference.com'
-        date_start: '2027-02-06'
-        description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
-      - title: Paper deadline 
-        date_start: '2027-02-13'
+        date_start: '2027-02-19'
+        description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>. No abstract deadline.
       - title: Final notification of results
-        date_start: '2027-03-28'
+        date_start: '2027-03-21'
       - title: Camera ready version due
-        date_start: '2027-04-30'
+        date_start: '2027-05-30'
+      - title: Workshop
+        date_start: '2027-05-31'
 ---
