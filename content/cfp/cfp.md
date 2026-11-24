@@ -11,17 +11,17 @@ EGPGV 2027 will take place on May 31, 2027, and will be co-located with EuroVis 
 
 The proceedings of EGPGV will be published in the Eurographics Proceedings Series and the Eurographics Digital Library.
 
-EGPGV seeks papers on graphics and visualization that involve parallel computing and/or focus on very large data sets. Papers on techniques, data structures, algorithms, systems, and applications are welcomed. Parallel computing includes high-performance computing and cloud environments, (multi-)GPU computing and heterogeneous, hybrid architectures, and shared and/or distributed memory architectures. Further, papers focused on processing very large data sets (either for visualization or graphics) are welcomed, even if they do not have a particular focus on parallelism.
+EGPGV seeks papers on graphics and visualization that involve parallelization and/or focus on very large data sets. Papers on techniques, data structures, algorithms, systems, and applications are welcome. Parallel computing includes high-performance computing and cloud environments, (multi-)GPU computing and heterogeneous, hybrid architectures, and shared and/or distributed memory architectures. Further, papers focused on processing very large data sets (either for visualization or graphics) are welcome, even if they do not have a particular focus on parallelism.
 
-## Typical symposium topics include:
+### Typical Symposium Topics:
 
 - Computationally and data-intensive rendering
 - Scientific visualization (e.g., volume, flow, and tensor visualization)
+- Parallel graphics techniques (e.g., high-performance implementations and GPU optimizations)
 - Machine learning as applied to parallel graphics, visualization, and/or large data analytics
 - Information visualization and visual analytics
 - In situ analytics and in situ visualization
 - Out-of-core processing of large data sets for visualization or graphics
-- Simulations for virtual environments (physics-based animation, collision detection, acoustics)
 - Mesh processing, level-of-detail, and geometric methods
 - Visual computing (image- and video-based rendering, image processing and exploitation, segmentation)
 - Scheduling, memory management, and data coherence
@@ -31,33 +31,30 @@ EGPGV seeks papers on graphics and visualization that involve parallel computing
 - Large and high-resolution displays, virtual environments
 - Scientific, engineering, and industrial applications
 - Data analytics on large scientific data sets
+- Energy-efficient graphics pipelines using ML
 - Neural rendering on GPU clusters and heterogeneous architectures
-- Machine learning-based compression for low-latency remote rendering
-- Machine learning for AR/VR rendering performance optimization
-- Machine learning-guided scheduling, load balancing, or resource prediction in graphics applications
-- Energy-efficient graphics pipelines using Machine learning
+- Latent space rendering for scientific visualization
 
 In general, appropriate topics for the symposium fall into one of four categories:
 
-(1) parallel graphics,  
-(2) rendering of very large data sets,  
-(3) parallel visualization and analytics, and  
-(4) processing of large data sets for visualization or analytics.  
+1. Parallel graphics
+2. Rendering of very large data sets
+3. Parallel visualization and analytics
+4. Processing of large data sets for visualization or analytics
 
-## Submission types:
-- Full Papers (8 to 10 pages) in Eurographics format (+1 page for references)
-- Short Papers (up to 4 pages) in Eurographics format (+1 page for references)
+### Submission Types:
 
-## Important Dates:
+- **Full Papers** (8 to 10 pages) in Eurographics format (+1 page for references)
+- **Short Papers** (up to 4 pages) in Eurographics format (+1 page for references)
 
-Abstract Deadline: February 6, 2027\
-Submission Deadline: February 13, 2027
+### Important Dates:
 
-If you would like more information, please don't hesitate to contact the Program Co-Chairs via papers@egpgv.org.
+- **Submission Deadline:** February 19, 2027 (no separate abstract deadline)
 
-## EGPGV Leadership:
+If you would like more information, please don't hesitate to contact the Program Co-Chairs via [papers@egpgv.org](mailto:papers@egpgv.org).
 
-Symposium Chair: Silvio Rizzi, Argonne National Laboratory, USA\
-Program Co-Chair: Soumya Dutta, IIT Kanpur, India\
-Program Co-Chair: Charles Gueunet, IconCFD, France
+### EGPGV 2027 Leadership:
 
+- **Symposium Chair:** Charles Gueunet, Zibra AI, Ukraine
+- **Program Co-Chair:** Soumya Dutta, IIT Kanpur, India
+- **Program Co-Chair:** Stefan Zellmann, University of Cologne, Germany
